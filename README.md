@@ -4,5 +4,4 @@ LinkedIn ID: https://www.linkedin.com/in/laxmi-sravani-madisi-b2987b290 <br>
 Hackerrank ID: @laxmisravanimad1
 
 ```TASK 0```
-![img](C:\Users\dell\Downloads\Laxmi Sravani Madisi - Intermediate Machine Learning (1).png)
-![img](C:\Users\dell\Downloads\Laxmi Sravani Madisi - Intro to Machine Learning (1).png)
+![img](https://github.com/Sravani5101/ACM_TASK_-SRAVANI-/blob/main/Pictures/Laxmi%20Sravani%20Madisi%20-%20Intermediate%20Machine%20Learning%20(3).png)
