@@ -9,3 +9,6 @@ Hackerrank ID: @laxmisravanimad1
 
 ```TASK 1```
 https://github.com/Sravani5101/ACM_TASK_-SRAVANI-/blob/main/Pictures/TASK_1_CLASSIFICATION%20%20ALGORITHMS.pdf
+
+```TASK 2```
+https://github.com/Sravani5101/ACM_TASK_-SRAVANI-/blob/main/Pictures/TASK_2_IMPLEMENTING_CLASSIFIERS.pdf
