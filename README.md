@@ -8,3 +8,4 @@ Hackerrank ID: @laxmisravanimad1
 ![img](https://github.com/Sravani5101/ACM_TASK_-SRAVANI-/blob/main/Pictures/Laxmi%20Sravani%20Madisi%20-%20Intro%20to%20Machine%20Learning.png)
 
 ```TASK 1```
+https://github.com/Sravani5101/ACM_TASK_-SRAVANI-/blob/main/Pictures/TASK_1_CLASSIFICATION%20%20ALGORITHMS.pdf
